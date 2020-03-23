@@ -6,7 +6,7 @@
 本仓库apk：  
 [apk files](https://github.com/laozhao1005/zhaoapps/tree/master/apps)
 
-下载地址：  
+正式版本下载地址：  
 [Soap](https://www.coolapk.com/apk/com.zhao.launcherlite)
 [Soapoo](https://www.coolapk.com/apk/com.zhao.soapoo)
 [Popoo](https://www.coolapk.com/apk/com.zhao.popoo)
