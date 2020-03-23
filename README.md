@@ -8,7 +8,5 @@
 
 下载地址：  
 [Soap](https://www.coolapk.com/apk/com.zhao.launcherlite)
-
 [Soapoo](https://www.coolapk.com/apk/com.zhao.soapoo)
-
 [Popoo](https://www.coolapk.com/apk/com.zhao.popoo)
